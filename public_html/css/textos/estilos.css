@@ -1,0 +1,23 @@
+p{
+    color: blue;
+    /*text-align: center; centralizado*/
+    /*text-align: right; direita*/
+    /*text-align: left; esquerda*/
+    text-align: justify; /*Justificado*/
+    
+    /*text-decoration: underline; sublinhado*/
+    /*text-decoration: overline; linha acima*/
+    text-decoration: line-through;/*riscado*/
+    
+    text-transform: uppercase; /*Todas maiusculas*/
+    text-transform: lowercase; /*Todas minusculas*/
+    text-transform: capitalize; /*Capitular*/
+    
+    text-indent: 10px; /*Identação do texto*/
+    letter-spacing: 10px; /*Espaçamento entre as letras*/
+    word-spacing: 50px; /*Espaçamento entre as palavras*/
+    
+    font-family: Arial, verdana, courier-new, sans-serif; /*Familia da fonte*/
+    size: 100px; /*Tamanho da fonte*/
+    font-weight: bold; /*Variações da fonte*/
+}
