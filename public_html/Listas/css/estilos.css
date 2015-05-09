@@ -1,0 +1,6 @@
+#menu {
+    font-size: 25px;
+    color: red;
+    list-style-type: none;
+    list-style-image: url(../imagens/estrela.png);
+}
