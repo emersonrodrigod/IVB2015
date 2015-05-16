@@ -1,0 +1,48 @@
+p {
+    border-width: 10px;
+}
+
+#dotted {
+    border: 5px dotted #f1f1f1;
+}
+
+#dashed {
+    border-style:dashed;
+}
+
+#solid {
+    border-style: solid;
+    border-radius:5px 20px 5px 20px;
+}
+
+#double {
+    border-style:double;
+}
+
+#groove {
+    border-style:groove;
+}
+
+#inset {
+    border-style:inset;
+}
+
+#outset {
+    border-style:outset;
+}
+
+#ridge {
+    border-style:ridge;
+}
+
+section {
+    border-style: solid;
+    border-width: 10px;
+}
+
+#diferente {
+    border-top: 10px dotted blue;
+    border-bottom: 10px solid black;
+    border-right: 10px dashed red;
+    border-left: 10px inset green;
+}
