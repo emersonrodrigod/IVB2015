@@ -1,0 +1,14 @@
+#cabecalho {
+    width: 500px; /*largura*/
+    height: 500px; /*altura*/
+    border: 1px solid black;
+    background: red;
+    
+    max-width: 100px;
+    min-width: 100px;
+    
+    max-height: 500px;
+    min-height: 100px;
+    
+}
+
