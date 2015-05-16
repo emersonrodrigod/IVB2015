@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#centro {
+    width: 900px;
+    margin: 0 auto;
+}
+
+header {
+    border: 2px solid black;
+    height: 100px;
+    margin-bottom: 15px;
+}
+
+nav {
+    border: 2px solid black;
+    height: 400px; 
+    width: 180px;
+    float: left;
+    margin-right: 20px;
+}
+
+article {
+    border: 2px solid black;
+    height: 400px; 
+    width: 480px;
+    float: left;
+}
+
+aside {
+    border: 2px solid black;
+    height: 400px; 
+    width: 180px;
+    float: right;
+}
+
+.clear {
+    clear: both;
+}
+footer {
+    border: 2px solid black;
+    height: 50px;
+    margin-top: 10px;
+}

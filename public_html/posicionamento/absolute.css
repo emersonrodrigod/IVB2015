@@ -1,0 +1,18 @@
+#caixa-grande {
+    width: 500px;
+    height: 500px;
+    background: green;
+    margin-left: 200px;
+    margin-top: 100px;
+    position: relative;
+}
+
+#caixa-pequena {
+    width: 100px;
+    height: 100px;
+    background: black;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+
