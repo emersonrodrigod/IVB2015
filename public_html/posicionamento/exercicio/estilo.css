@@ -1,0 +1,47 @@
+/*CSS RESET*/
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+#centro {
+    width: 900px;
+    margin: 0 auto;
+}
+
+header {
+    border: 1px solid #000;
+    height: 100px;
+}
+
+nav {
+    border: 1px solid #000; 
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#esquerdo, #direito {
+    border: 1px solid #000; 
+    height: 200px;
+    width: 440px;
+}
+
+#esquerdo {
+    float: left;
+}
+
+#direito {
+    float: right;
+}
+
+#clear {
+    clear: both;
+}
+
+footer {
+    border: 1px solid #000; 
+    height: 75px;
+    margin-top: 10px;
+}
