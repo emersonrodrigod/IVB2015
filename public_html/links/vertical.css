@@ -1,0 +1,29 @@
+#vertical {
+    width: 200px;
+    background: #f1f1f1;
+    border: 1px solid #000;
+}
+
+#vertical ul {
+    list-style: none;
+}
+
+#vertical ul li a {
+    display: block;
+    height: 40px;
+    width: 195px;
+    text-decoration: none;
+    font-family: verdana, arial, sans-serif;
+    color: #000;
+    border-bottom: 1px solid #000;
+    line-height: 40px;
+    padding-left: 5px;
+}
+
+#vertical ul li a:hover {
+    color: #ff8000;
+}
+
+#vertical ul li:last-child a {
+    border-bottom: none;
+}
